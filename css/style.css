@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(107, 107, 107);
+  }
+@font-face {
+    font-family: Final;
+    src: url(/font/finalf.ttf);
+}
+  .header {background-color: rgba(48, 21, 21, 0.362);}
+  .meat {background-color: gold;}
+  .double {border-style: double; border-color: purple;}
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
